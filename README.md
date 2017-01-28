@@ -1,4 +1,4 @@
-# phpmediadraft
+# PHP Media Library
 
 Basic site built upon the foundations of PHP.
 
