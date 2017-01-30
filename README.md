@@ -3,3 +3,5 @@
 Basic site built upon the foundations of PHP.
 
 Followed a tutorial to create this media catalog that shows a library with books, movies, music and a also a contact form.
+
+<img src="https://github.com/TheManuGarcia/medialibrary/blob/master/MediaLibrary.gif"/>
